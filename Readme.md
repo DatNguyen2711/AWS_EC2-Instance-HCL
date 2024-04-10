@@ -1,6 +1,6 @@
 
 ### Create EC2 Instance with Terraform
-![image](https://github.com/DatNguyen2711/Pharmacy-Web/assets/81822483/b8fc4c6e-9102-43a1-8890-caffc5acf6ed)
+![image](https://github.com/DatNguyen2711/EC2-Instance-HCL/assets/81822483/04e4c7e0-5125-42a5-a632-75ccd69eab92)
 
 ## Step 1: First, run you have to create AWS account and IAM user account (follow the bellow instructions)
 Open [IAM AWS docs](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users.html) to see how to create AWS account and IAM user
